@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.feign:feign-ribbon:7.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.feign/feign-ribbon/7.1.0/6a0b0271fd6b5f0a67387bf0ec5a61e3cfbd63d6/feign-ribbon-7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.feign/feign-ribbon/7.1.0/53628b9abae4e6b6100e1eb6d7f20ca8f0db2ee1/feign-ribbon-7.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

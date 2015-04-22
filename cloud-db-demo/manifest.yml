@@ -1,0 +1,9 @@
+---
+applications:
+ - name: cloud-db-demo
+   memory: 512M
+   instances: 1
+   host: cloud-db-demo
+   domain: cfapps.io
+   env:
+        JAVA_OPTS : -Dspring.profiles.active=cloud
