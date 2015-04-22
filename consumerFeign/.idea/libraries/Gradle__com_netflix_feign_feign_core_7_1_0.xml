@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.feign:feign-core:7.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.feign/feign-core/7.1.0/1fc46aa796b8ff44555f107c8c2437a6b9a51cd5/feign-core-7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.feign/feign-core/7.1.0/64ec114126879eeaadea0c8bf61bf3759ff2996d/feign-core-7.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
